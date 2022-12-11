@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moco-uk
+- 👋 Hi, I’m Mohammad with @moco-uk id.
 - 👀 I'm interested in new electronic and computer science.
 - 🌱 I'm currently working as a technician in production and learning coding through self-study.
 - 💞️ I'm looking to improve my coding skill.
